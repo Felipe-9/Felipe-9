@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Felipe Pinto
 
-> **Chemical and Biological Enigneering Student** @ FCT NOVA × Self-taught **Computer Science** and **Machine Learning** enthusiast
+> **Chemical and Biological Engineering Student** @ FCT NOVA × Self-taught **Computer Science** and **Machine Learning** enthusiast
 
 - 🎯 Building reliable systems at the intersection of engineering rigor and computational innovation
 - 🇧🇷 Brazilian | 🇵🇹 Based in Portugal since 2021
@@ -28,7 +28,7 @@ Most of my repositories are hosted on GitLab:
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-3776AB?logo=python&logoColor=white)](https://pypi.org/project/scikit-learn/)
 [![nltk](https://img.shields.io/badge/nltk-3776AB?logo=python&logoColor=white)](https://pypi.org/project/nltk/)
 [![Burn](https://img.shields.io/badge/Burn-B7410E?logo=rust&logoColor=white)](https://crates.io/crates/burn)
-[![Rust-bert](https://img.shields.io/badge/Rust--Bern-B7410E?logo=rust&logoColor=white)](https://crates.io/crates/rust-bert)
+[![Rust-bert](https://img.shields.io/badge/Rust--Bert-B7410E?logo=rust&logoColor=white)](https://crates.io/crates/rust-bert)
 [![Linfa](https://img.shields.io/badge/Linfa-B7410E?logo=rust&logoColor=white)](https://crates.io/crates/linfa)
 
 **Systems & Tooling:**
@@ -38,7 +38,7 @@ Most of my repositories are hosted on GitLab:
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
 ![GitHub Projects](https://img.shields.io/badge/GitHub-Projects-%23121011.svg?logo=github&logoColor=white)
 [![Selenium WebDriver](https://img.shields.io/badge/Selenium-WebDriver-43B02A?logo=selenium&logoColor=fff)](https://www.selenium.dev/documentation/webdriver/)
-[![Criterion](https://img.shields.io/badge/Criterion-B7410E?style=flat-squarestyle=flat&logo=rust&logoColor=white)](https://docs.rs/criterion/latest/criterion/)
+[![Criterion](https://img.shields.io/badge/Criterion-B7410E?logo=rust&logoColor=white)](https://docs.rs/criterion/latest/criterion/)
 [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](https://docs.gitlab.com/ci/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
 
@@ -47,23 +47,25 @@ Most of my repositories are hosted on GitLab:
 
 ---
 
-## 🚀 Selected Projects
+## 🌟 Selected Projects
+
+### ⚙️ Dotfiles & Templates
+
+[![NixOS Flake](https://img.shields.io/badge/NixOS%20Flake-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)](https://gitlab.com/felipepinto-flakes/nixos)
+[![Neovim](https://img.shields.io/badge/Neovim%20Config-57A143?logo=neovim&logoColor=fff&style=for-the-badge)](https://gitlab.com/felipepinto-flakes/nixvim-wrapped)
+[![Personal CV Template](https://img.shields.io/badge/CV--LaTeX--Class-00A0A0?logo=latex&logoColor=fff&style=for-the-badge)](https://gitlab.com/felipe-pinto/cv-latex-class)
 
 ### 🧠 CS50’s AI Projects (Harvard SEAS)
 
 - 20 AI/ML projects implemented in Python and re-implemented in Rust
-- Benchmarks comparing abstraction and performance trade-offs
-- Covers search, knowledge representation, probabilistic reasoning, CSPs, neural networks, NLP and computer vision
+- Benchmarks comparing Python and Rust Performance in ML.
+- Covers: search, knowledge representation, probabilistic reasoning, CSPs, neural networks, NLP and computer vision
 
-Repository:
-[![felipe-pinto/cs50-ai](https://img.shields.io/badge/Felipe--Pinto-CS50--AI-A41034?logo=gitlab)](https://gitlab.com/Felipe-Pinto/cs50-ai)
+[![Repository: felipe-pinto/cs50-ai](https://img.shields.io/badge/Felipe--Pinto-CS50--AI-A41034?logo=gitlab&style=for-the-badge)](https://gitlab.com/Felipe-Pinto/cs50-ai)
 
 ### 📊 Neural Network Research – NOVA FCT (PIIC)
 
 Evaluated predictive neural network models for CO2 absorption data in a solar fuel project.
 
 Open Scientific Report:
-[![felipepinto-FCT-EQB/PIIC/Report](https://img.shields.io/badge/felipepinto--fct--eqb-PIIC--Report-000?logo=gitlab)](https://gitlab.com/felipepinto-fct-eqb/piic/-/blob/main/Report/Report.pdf)
-
----
-
+[![Scientific Report: felipepinto-FCT-EQB/PIIC/Report](https://img.shields.io/badge/felipepinto--fct--eqb-PIIC--Report-000?logo=gitlab&style=for-the-badge)](https://gitlab.com/felipepinto-fct-eqb/piic/-/blob/main/Report/Report.pdf)
