@@ -51,7 +51,7 @@ Most of my repositories are hosted on GitLab:
 
 ### ⚙️ Dotfiles & Templates
 
-[![NixOS Flake](https://img.shields.io/badge/NixOS%20Flake-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)](https://gitlab.com/felipepinto-flakes/nixos)
+[![NixOS Flake](https://img.shields.io/badge/NixOS%20Flake-5277C3?logo=nixos&logoColor=fff&style=for-the-badge)](https://gitlab.com/felipepinto/nixos)
 [![Neovim](https://img.shields.io/badge/Neovim%20Config-57A143?logo=neovim&logoColor=fff&style=for-the-badge)](https://gitlab.com/felipepinto-flakes/nixvim-wrapped)
 [![Personal CV Template](https://img.shields.io/badge/CV--LaTeX--Class-00A0A0?logo=latex&logoColor=fff&style=for-the-badge)](https://gitlab.com/felipe-pinto/cv-latex-class)
 
