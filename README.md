@@ -31,6 +31,11 @@ Most of my repositories are hosted on GitLab:
 [![Rust-bert](https://img.shields.io/badge/Rust--Bert-B7410E?logo=rust&logoColor=white)](https://crates.io/crates/rust-bert)
 [![Linfa](https://img.shields.io/badge/Linfa-B7410E?logo=rust&logoColor=white)](https://crates.io/crates/linfa)
 
+**Databases**
+[![MySQL/MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://postgresql.org/)
+[![SpacetimeDB](https://img.shields.io/badge/SpacetimeDB-2.x-purple)](https://spacetimedb.com)
+
 **Systems & Tooling:**
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](https://nixos.org)
